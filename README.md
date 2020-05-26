@@ -29,7 +29,6 @@ Latest verison of java
 Internet connection
 ```
 
-
 ## Deployment
 
 We will be deploying on android market place
@@ -37,10 +36,6 @@ We will be deploying on android market place
 ## Built With
 
 * [Recycler Worms](https://github.com/tommybuonomo/dotsindicator) - Used to generate worm slider
-
-## Contributing
-
-(Names go here)
 
 ## Versioning
 
