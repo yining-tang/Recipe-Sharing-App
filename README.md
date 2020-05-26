@@ -68,15 +68,6 @@ We will be deploying on android market place
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
-## Authors
-
-* **Patrick Caldwell** - *Initial work/driver classes* - [Page](https://github.com/GokuSonic)
-* **Sean Gow** - *Initial work/ database* - [Page](https://github.com/Sean8499)
-* **Evan Smith** - *Helps debug* - [Page](https://github.com/charmas3r)
-* **Yining tang** - *Design and layout* - [Page](https://github.com/yining-tang)
-
-See also the list of [contributors](https://github.com/GokuSonic/Recipe-Sharing-App/graphs/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
