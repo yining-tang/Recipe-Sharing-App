@@ -29,28 +29,6 @@ Latest verison of java
 Internet connection
 ```
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-'''
-Still in development
-'''
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Still in development
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Still in development
-```
 
 ## Deployment
 
@@ -72,10 +50,4 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
-"# ReciPlease-App"
